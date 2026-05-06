@@ -1,0 +1,17 @@
+{
+  "name": "media-javascript",
+  "version": "1.0.0",
+  "description": "Project ini akan belajar Node JS dasar yang diintegrasikan dengan AI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI",
+    "NodeJS",
+    "Asisten",
+    "Virtual"
+  ],
+  "author": "Syauqi Murtadlo",
+  "license": "ISC"
+}
